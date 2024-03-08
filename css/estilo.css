@@ -1,3 +1,5 @@
+/* 
+header do site */
 .sacola{
     position: absolute;
     display: inline;
@@ -39,6 +41,8 @@ header{
     position: relative;
 }
 
+/* main do site */
+
 .busca,
 .menu-departamentos {
     background-color: #dcdcdc;
@@ -78,7 +82,7 @@ busca input[type=search] {
     clear: left;
 }
 
-.destaque {
+.container-destaque {
     margin-top: 10px;
 }
 
@@ -88,7 +92,9 @@ busca input[type=search] {
 }
 
 #img1{
+    margin-left: 100px;
     height: 500px;
-    width: 500px;
+    width: 700px;
 }
+   
    
